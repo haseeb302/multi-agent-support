@@ -1,1 +1,39 @@
+# Environment and secrets (never commit)
 .env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Node / Next.js (web)
+node_modules/
+.next/
+out/
+.web-support/
+*.tsbuildinfo
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Logs and local data
+*.log
+data/*.log
+
+# Testing and coverage
+.coverage
+htmlcov/
+.pytest_cache/
