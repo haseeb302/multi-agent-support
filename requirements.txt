@@ -1,0 +1,24 @@
+# API
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# LangChain & agents
+langchain>=0.1.0
+langchain-core>=0.3.0
+langgraph>=0.0.20
+langchain-openai>=0.2.0
+
+# Vector DB - Pinecone (https://docs.pinecone.io/guides)
+pinecone-client>=5.0.0
+
+# Text splitting for RAG embed script
+langchain-text-splitters>=0.0.1
+
+# HTTP client
+httpx>=0.26.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.23.0

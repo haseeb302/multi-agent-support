@@ -1,0 +1,6 @@
+{"ts": "2026-02-18T19:03:40.562724+00:00", "customer_id": "CUST_010", "action": "cancel_care_plus"}
+{"ts": "2026-02-19T19:25:40.912033+00:00", "customer_id": "CUST_010", "action": "cancel_care_plus"}
+{"ts": "2026-02-19T21:46:37.877418+00:00", "customer_id": "CUST_005", "action": "cancel_care_plus"}
+{"ts": "2026-02-19T23:41:02.268908+00:00", "customer_id": "CUST_007", "action": "cancel_care_plus"}
+{"ts": "2026-02-20T00:12:30.027422+00:00", "customer_id": "CUST_006", "action": "cancel_care_plus"}
+{"ts": "2026-02-20T00:12:30.027344+00:00", "customer_id": "CUST_006", "action": "upgrade_device"}
